@@ -9,7 +9,7 @@ Jarvis is a virtual assistant application that you can use to complete your task
     <li>you can search for any Wikipedia page</li>
     <li>opening a website with command(like open youtube, LinkedIn)</li> 
     <li>play random music/movies stored in the system </li>
-    <li>Open programs(like VS code)</li> 
+    <li>Open programs(like VS code,Notepad etc)</li> 
     <li>play any video on youtube</li>
     <li>send an email</li>
     <li>crack a joke</li> 
